@@ -1,0 +1,90 @@
+header {
+    background-color: #d1a9a9;
+    color: #9a91af;
+    text-align: center;
+    padding: 40px 20px;
+    }
+
+    p { color: rgb(136, 109, 109) }
+
+    label { 
+        color:#7d46fc;
+    }
+
+    * {
+    box-sizing: border-box;
+    }
+
+    body {
+    background-image: url("pretp brilhante.jpn");
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 50px;
+    }
+
+
+    h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    }
+
+    h2 {
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    }
+
+    h3 {
+        color:#7d46fc;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    }
+
+    .container {
+    margin: 20px auto;
+    max-width: 800px;
+    }
+
+    .card {
+    background-color: #252945;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.224);
+    margin-bottom: 20px;
+    padding: 20px;
+    }
+
+    .card-header {
+    border-bottom: 1px solid #000000;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    }
+
+    .card-header .right {
+    float: right;
+    }
+
+    .profile-image {
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+    width: 170px;
+    height: 160px;
+    background-image: url("pretp brilhante.jpn");
+    background-size: cover;
+    background-position: center;
+    }
+
+    img{
+        height: 150px;
+        width: 150px; 
+    }
+    input {
+        margin: 1%;
+        padding: 10px;
+        border:0; 
+        box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+        border-radius:10px;
+        width: 25%;
+    }
